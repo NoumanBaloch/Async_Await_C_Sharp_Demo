@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.exe
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.deps.json
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.runtimeconfig.json
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.dll
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitDemo.pdb
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.Form1.resources
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.AssemblyInfo.cs
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.dll
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.pdb
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.genruntimeconfig.cache
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\netcoreapp3.1\AsyncAwaitBestPractices.dll
+\\Mac\Home\Desktop\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\netcoreapp3.1\AsyncAwaitDemo.csproj.CopyComplete

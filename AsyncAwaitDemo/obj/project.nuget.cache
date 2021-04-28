@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ovy5BFA/mSAknRdRyJqWgqHJlimKB8eDtLnz3uea1KGcELf//NIORwGHjaQleUCTidb2zm3FfJi5g9d53ePCNg==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\AsyncAwaitDemo\\AsyncAwaitDemo\\AsyncAwaitDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noumanbaloch\\.nuget\\packages\\asyncawaitbestpractices\\5.1.0\\asyncawaitbestpractices.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsyncAwaitBestPractices/5.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/AsyncAwaitBestPractices.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncAwaitBestPractices/5.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hRPwbZRrbCRlMYelzAh5AVtw43iMAatdVRm7llQ1MnAFSVjt7wZkd8LRUnxumBKxgOhWKb+jCV2bmippx9QfJA==",
+      "path": "asyncawaitbestpractices/5.1.0",
+      "hashPath": "asyncawaitbestpractices.5.1.0.nupkg.sha512"
+    }
+  }
+}
